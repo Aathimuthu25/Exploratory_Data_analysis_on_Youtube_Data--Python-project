@@ -1,9 +1,7 @@
 # Exploratory_Data_analysis_on_Youtube_Data-Python-project
 Welcome to my exploratory journey into YouTube's enigmatic data! 🌟 As YouTube decided to hide dislike counts, our project takes a closer look at the last glimpse of this data before it disappeared in Dec 2021. Using Python's powerful libraries, Pandas and NumPy, we're unpacking secrets that were once visible to all.
 ### Tech Stack Used
-<img src="![Img_1](https://github.com/Aathimuthu25/Exploratory_Data_analysis_on_Youtube_Data--Python-project/assets/158067286/d6c6ffc4-296b-4c10-886d-c03690b9731f)
-"alt="jupyter-notebook" width="250" height="250">
-
+![Img_1](https://github.com/Aathimuthu25/Exploratory_Data_analysis_on_Youtube_Data--Python-project/assets/158067286/5d428ddb-4953-435d-a51e-76632fa083f8)
 
 # Domain: Social Media
 
